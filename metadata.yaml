@@ -1,0 +1,47 @@
+_repo: Danny-the-detective_73929
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_L._Wood
+creator:
+  author:
+    agent_name: Barclay, Vera C. (Vera Charlesworth)
+    aliases:
+    - Barclay, V. C. (Vera Charlesworth)
+    - Barclay, Vera Charlesworth
+    birthdate: 1893
+    deathdate: 1989
+    gutenberg_agent_id: '31812'
+    url: http://www.gutenberg.org/2009/agents/31812
+    wikipedia: https://en.wikipedia.org/wiki/Vera_Barclay
+description: ''
+gutenberg_issued: '2024-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73929'
+language: en
+pgterms:marc904: https://archive.org/details/dannydetective00barc/mode/2up
+pgterms:marc905: 20240524115907barclay
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bG. P. Putnam''s Sons / The Knickerbocker Press,
+  $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- England -- Juvenile fiction'
+- !lcsh 'Cub Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Danny the detective
+url: http://www.gutenberg.org/ebooks/73929
